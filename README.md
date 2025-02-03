@@ -37,7 +37,9 @@ PwC Switzerland Digital Intelligence Job Simulation on Forage
    * A Poisson distribution has been selected to model the claims frequency.
    *  A Pareto distribution has been selected for the claims severity.
    *  Remark:  shape parameter of the Pareto distribution based on a very limited data set, the standard value for property business of 2.5 is used. (Need to use 2.5 and not 1.5 as given in the assumption)
-   *  ![image](https://github.com/user-attachments/assets/b6261757-a009-4054-b8de-984613d44e5f)
+   *  Need to used statistics as below:
+     
+      ![image](https://github.com/user-attachments/assets/b6261757-a009-4054-b8de-984613d44e5f)
 
    
 
