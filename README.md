@@ -21,8 +21,5 @@ PwC Switzerland Digital Intelligence Job Simulation on Forage
    ## Task 3
    *  Predicting the future cash flows needed for the valuation of a portfolio consisting of merchant loans
    *  Take care you need to take this formula given below and not the one given in order to get the right answer: (formula for the repayment forecast)
+   *  
 
-$$
-p_i = \max \left\{ p_2 \cdot \ln \left( 1 + \left( 1 - \left( 1 - \sum_{j=1}^{i-1} p_j \right) \right) \cdot \left(1- \frac{i-1}{30}\right) \right), 0 \right\}
-$$
-   
