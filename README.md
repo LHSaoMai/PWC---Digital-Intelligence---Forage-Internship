@@ -12,3 +12,11 @@ PwC Switzerland Digital Intelligence Job Simulation on Forage
    flows, and determined portfolio present value.
  * Collaborated on a client's data strategy proposal, analyzed medical data for
    adverse effects, compared medications, and suggested further investigations
+
+   ## Task 2
+   * Use SkLearn to build a phone marketing algorithm predicts whether a certain person will subscribe to a term deposit or not.
+   * Analyse the model and provide insight into which features/variables influence the outcome of the classification the most: on a global level, and specifically for observation #4 and #20.
+   * Dataset on Kaggle: https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing
+
+
+   
