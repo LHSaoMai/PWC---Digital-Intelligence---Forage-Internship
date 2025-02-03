@@ -21,5 +21,5 @@ PwC Switzerland Digital Intelligence Job Simulation on Forage
    ## Task 3
    *  Predicting the future cash flows needed for the valuation of a portfolio consisting of merchant loans
    *  Take care you need to take this formula given below and not the one given in order to get the right answer: (formula for the repayment forecast)
-   ![Formula](image)
+   ![Formula](https://github.com/LHSaoMai/PWC---Digital-Intelligence---Forage-Internship/blob/main/image/Task%203%20-%20Formula%20.png)
 
